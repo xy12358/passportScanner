@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aeacommandimpl/aeacommandimpl.iml" filepath="$PROJECT_DIR$/aeacommandimpl/aeacommandimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aeacore/aeacore.iml" filepath="$PROJECT_DIR$/aeacore/aeacore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aeaframework/aeaframework.iml" filepath="$PROJECT_DIR$/aeaframework/aeaframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aeaweb/aeaweb.iml" filepath="$PROJECT_DIR$/aeaweb/aeaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pegasusaea.iml" filepath="$PROJECT_DIR$/pegasusaea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plcadaptor/plcadaptor.iml" filepath="$PROJECT_DIR$/plcadaptor/plcadaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rs232adaptor/rs232adaptor.iml" filepath="$PROJECT_DIR$/rs232adaptor/rs232adaptor.iml" />
+    </modules>
+  </component>
+</project>
